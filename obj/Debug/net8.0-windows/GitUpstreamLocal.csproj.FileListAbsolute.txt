@@ -1,0 +1,14 @@
+D:\upstream test\GitUpstreamLocal_OneWay\bin\Debug\net8.0-windows\GitUpstreamLocal.exe
+D:\upstream test\GitUpstreamLocal_OneWay\bin\Debug\net8.0-windows\GitUpstreamLocal.deps.json
+D:\upstream test\GitUpstreamLocal_OneWay\bin\Debug\net8.0-windows\GitUpstreamLocal.runtimeconfig.json
+D:\upstream test\GitUpstreamLocal_OneWay\bin\Debug\net8.0-windows\GitUpstreamLocal.dll
+D:\upstream test\GitUpstreamLocal_OneWay\bin\Debug\net8.0-windows\GitUpstreamLocal.pdb
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.AssemblyInfoInputs.cache
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.AssemblyInfo.cs
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.csproj.CoreCompileInputs.cache
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.dll
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\refint\GitUpstreamLocal.dll
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.pdb
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\GitUpstreamLocal.genruntimeconfig.cache
+D:\upstream test\GitUpstreamLocal_OneWay\obj\Debug\net8.0-windows\ref\GitUpstreamLocal.dll
